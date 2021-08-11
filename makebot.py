@@ -10,7 +10,7 @@ from datetime import datetime
 import threading, sqlite3, animals
 
 # Variables
-token = "" # Bot token here
+token = "1708370526:AAHc_SUqyok1OnobtFj6EmLQC2aAXH9QYz8" # Bot token here
 if not token:
 	raise ValueError('please add token')
 todo = [] #Used for stroring send jobs
